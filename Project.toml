@@ -1,0 +1,7 @@
+name = "ObjectDetector"
+uuid = "e40f07b0-e92a-11e9-02d7-37401c30a282"
+authors = ["Robert Luciani"]
+version = "0.0.0"
+
+[deps]
+
